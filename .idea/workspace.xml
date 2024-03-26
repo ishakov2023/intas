@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06f9c1a9-c328-4ce5-8635-1901992359b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ScriptRandom/RandomTrips.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/src/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.1.9" />
+  <component name="ProjectId" id="2e2HawYhEsH7js75eZ6tGCZmfRk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ishak/OneDrive/Рабочий стол/TestJob/banki&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ishak\OneDrive\Рабочий стол\TestJob\Intas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ishak\OneDrive\Рабочий стол\TestJob\Intas\src\Connect" />
+      <recent name="C:\Users\ishak\OneDrive\Рабочий стол\TestJob\Intas\src" />
+      <recent name="C:\Users\ishak\OneDrive\Рабочий стол\TestJob\Intas" />
+      <recent name="C:\Users\ishak\OneDrive\Рабочий стол\TestJob\Intas\src\table" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06f9c1a9-c328-4ce5-8635-1901992359b6" name="Changes" comment="" />
+      <created>1711095819587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711095819587</updated>
+      <workItem from="1711095820614" duration="137000" />
+      <workItem from="1711095963654" duration="4893000" />
+      <workItem from="1711102450822" duration="4811000" />
+      <workItem from="1711177068950" duration="15142000" />
+      <workItem from="1711202531605" duration="5564000" />
+      <workItem from="1711260275961" duration="18956000" />
+      <workItem from="1711292553675" duration="1433000" />
+      <workItem from="1711294083242" duration="73000" />
+      <workItem from="1711345325116" duration="20180000" />
+      <workItem from="1711430573131" duration="10533000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+select, input[type="submit"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#arrival_date {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+#submit_btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.message {
+    background-color: #2eff00;
+    color: #000000;
+    border: 1px solid #2eff00;
+    padding: 10px;
+    margin: 0 auto 10px;
+    max-width: 400px;
+    text-align: center;
+}
+
+.site-header {
+    background-color: #333;
+    overflow: hidden;
+    padding: 10px 0;
+}
+
+.site-header {
+    background-color: #333;
+    color: #d20707;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.site-header a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+}
+
+.site-header a:hover {
+    background-color: #555;
+}
